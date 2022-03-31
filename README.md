@@ -22,4 +22,5 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### problem3-Reinforcement-QLearning.py
 
-- A
+- Referred to as `stub.py` in the specifications
+- Implement a Q-learning agent to play a game that is similar to *Flappy Bird*
