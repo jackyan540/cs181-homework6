@@ -5,9 +5,9 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 > Solutions contained in the `personal-solutions` folder
 
-1. A
-2. A
-3. A
+1. "Explaining Away" effect in Bayesian Network Inference
+2. Policy Iteration and Value Iteration in solving a Markov Decision Process (MDP)
+3. Reinforcement Learning and implementing a Q-learning agent
 
 ---
 
