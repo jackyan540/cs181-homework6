@@ -17,7 +17,8 @@ Spring 2021 Machine Learning ([CS 181](https://harvard-ml-courses.github.io/cs18
 
 #### problem2-Policy-Value-Iteration.py
 
-- A
+- Referred to as `T6_P2.py` in the specifications
+- Implements Policy Iteration and Value Iteration to find the optimal solution to a Markov Decision Process (MDP)
 
 #### problem3-Reinforcement-QLearning.py
 
